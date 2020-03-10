@@ -34,6 +34,7 @@ you can get lede-build-image-id by command `sudo docker image ls`
 后面的步骤都知道了
 
 贴上大雕的readme
+
 paste the dio's readme for thx his contribution 
 
 Welcome to Lean's  git source of OpenWrt and packages
