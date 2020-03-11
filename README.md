@@ -7,6 +7,7 @@
 ## description
 
 首先@大雕 @coolsnowwolf
+
 firstly, @大雕 @coolsnowwolf
 
 本dockerfile是为了方便编译[大雕的LEDE路由器固件](https://github.com/coolsnowwolf/lede/)时解决一系列的环境依赖和冲突问题,假定你对docker的使用有了解, 如果不了解请移步docker教程, 建议使用镜像源以及全局翻墙
